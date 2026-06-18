@@ -1,6 +1,6 @@
 ## olá eu sou o Kael Stem
 
-# ![snake gif](https://github.com/kaelstem/your-user-name/blob/output/github-contribution-grid-snake.gif)
+
 
 - 🌱 I’m currently learning engenharia de sofware na unicesumae 1 semestre
 
@@ -11,5 +11,8 @@
   <a href="https://discord.gg/sacahara._96628" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:stemsacaharak@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
  <div>
+ <img src="https://raw.githubusercontent.com/kaelstem/kaelstem/snake-output/snake.svg" alt="Snake animation" />
+
+###
 
   
