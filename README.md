@@ -1,8 +1,18 @@
-## olá eu sou o Kael Stem
+# Olá! Eu sou o KaelStem 👋
+
+- 🎓 Estudante de Engenharia de Software
+- 💻 Aprendendo programação e desenvolvimento de software
+- 🚀 Em busca de experiência na área de TI
+
+## 📊 Estatísticas GitHub
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KaelStem&show_icons=true)
+
+## 💻 Linguagens mais usadas
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KaelStem&layout=compact)
 
 
-
-- 🌱 I’m currently learning engenharia de sofware na unicesumae 1 semestre
 
 
 <div> 
