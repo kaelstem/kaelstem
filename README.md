@@ -1,6 +1,6 @@
 ## olá eu sou o Kael Stem
 
-
+# ![snake gif](https://github.com/kaelstem/your-user-name/blob/output/github-contribution-grid-snake.gif)
 
 - 🌱 I’m currently learning engenharia de sofware na unicesumae 1 semestre
 
